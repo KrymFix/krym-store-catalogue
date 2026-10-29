@@ -1,7 +1,24 @@
 {
   "format": 1,
-  "updated": null,
-  "updatedBy": null,
-  "apps": [],
+  "updated": "2026-10-29T19:56:55.923Z",
+  "updatedBy": "Krym",
+  "apps": [
+    {
+      "id": "amvtysfvgccb",
+      "added": "2026-10-29T19:56:55.517Z",
+      "author": "Krym",
+      "name": "KrymFix Admin",
+      "tagline": "",
+      "description": "",
+      "source": "github",
+      "repo": "KrymFix/KrymFix-App",
+      "asset": "KrymFix-Admin-v1.4.apk",
+      "link": "https://github.com/KrymFix/KrymFix-App/releases/latest/download/KrymFix-Admin-v1.4.apk",
+      "category": "Gestion",
+      "version": "1.4",
+      "platform": "Android",
+      "palette": 5
+    }
+  ],
   "admins": []
 }
